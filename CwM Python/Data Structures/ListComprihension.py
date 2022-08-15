@@ -5,3 +5,5 @@ items = [
 ]
 
 prices = [item[1] for item in items]
+
+print(prices)
